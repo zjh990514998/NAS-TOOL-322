@@ -45,17 +45,19 @@ jsonpath==0.82
 jsonschema==4.16.0
 loguru==0.6.0
 lxml==4.9.1
+libtorrent==2.0.9
 Mako==1.2.3
 MarkupSafe==2.1.1
 matplotlib-inline==0.1.6
 msgpack==1.0.4
-openai==0.27.2
+openai==0.27.8
 outcome==1.2.0
 parse==1.19.0
 parsel==1.6.0
 parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
+pikpakapi==0.1.1
 pillow==9.5.0
 proces==0.1.2
 prompt-toolkit==3.0.31
@@ -112,4 +114,3 @@ websockets==10.3
 Werkzeug==2.2.3
 wsproto==1.2.0
 zhconv==1.4.3
-libtorrent==2.0.9
